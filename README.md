@@ -2,6 +2,10 @@
 
 A visually striking website showcasing advanced design elements, dedicated to raising awareness about global warming.
 
+<div align="center">
+ <img src="./global-warming.gif" alt="app demo">
+</div>
+
 ## Tech Stack
 
 - <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="html5">
