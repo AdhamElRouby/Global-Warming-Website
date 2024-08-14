@@ -13,7 +13,7 @@ A visually striking website showcasing advanced design elements, dedicated to ra
 ## Features
 
 - **Elegant Animations:** Enjoy smooth animations and transitions across the website.
-- **Dynamic Content Display:** Content appears seamlessly as you scroll, utilizing the **JavaScript Intersection Observer API.**
+- **Dynamic Content Display:** Content appears seamlessly as you scroll, utilizing the JavaScript `Intersection Observer API.`
 - **Custom Responsive Carousel:** Advanced JavaScript carousel with responsive design developed from scratch.
 - **Enhanced Functionality:** Includes various appealing features such as a contact form button, back-to-top button, countdown timer, and scrolling marquee.
 
